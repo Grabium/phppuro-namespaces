@@ -4,7 +4,7 @@ namespace Gabriel\PHP_Puro_Namespaces\Controllers;
 
 use Gabriel\PHP_Puro_Namespaces\Views\TesteView as V;
 
-class Teste2Controller 
+class TesteSecondController 
 {
   public function __construct()
   {
